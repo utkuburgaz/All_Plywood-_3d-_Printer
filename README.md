@@ -39,7 +39,6 @@ BurgBot features:
 | Thermistor           | 100K |x 1 |
 | Cork Insulator       | |x 1 |
 | Spring               | ID (min) = 3mm |x 4 |
-
 | Bearing              | 624ZZ|x 2 |
 | Belt (meters)        | GT2  |x 2 |
 | Pulley               | ID = 5 mm |x 2 |
