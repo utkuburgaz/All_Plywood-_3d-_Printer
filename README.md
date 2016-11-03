@@ -19,7 +19,7 @@ BurgBot features:
 
 | Name                 | Description          | Quantity      |
 | -------------------- | -------------------- | ------------- |
-| Body Parts           | Lasercut 8mm Plywood | x 1 |
+| Body Parts           | Lasercut 8mm Plywood Download .dwg File Above | x 1 |
 | Main Board           | Arduino Mega | x 1 |
 | Main Board Shield    | RAMPS 1.4 | x 1 |
 | Stepper Motor        | Nema 17 | x 4 |
