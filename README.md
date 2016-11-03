@@ -56,16 +56,16 @@ BurgBot features:
 
 ##PICTURES##
 
-![Image of BurgBot 1](All_Plywood_3d_Printer_BurgBot/Media/All_plywood_3d_printer_0.jpg)
+![Image of BurgBot 1](https://github.com/utkuburgaz/All_Plywood_3d_Printer_BurgBot/blob/master/Media/All_plywood_3d_printer_0.jpg)
 
-![Image of BurgBot 2](https://github.com/utkuburgaz/All_Plywood_3d_Printer_BurgBot/blob/master/Media/All_plywood_3d_printer_0.jpg)
+![Image of BurgBot 2](https://github.com/utkuburgaz/All_Plywood_3d_Printer_BurgBot/blob/master/Media/All_plywood_3d_printer_1.jpg)
 
-![Image of BurgBot 3]
+![Image of BurgBot 3](https://github.com/utkuburgaz/All_Plywood_3d_Printer_BurgBot/blob/master/Media/All_plywood_3d_printer_2.jpg)
 
-![Image of BurgBot 4]
+![Image of BurgBot 4](https://github.com/utkuburgaz/All_Plywood_3d_Printer_BurgBot/blob/master/Media/All_plywood_3d_printer_3.jpg)
 
-![Image of BurgBot 5]
+![Image of BurgBot 5](https://github.com/utkuburgaz/All_Plywood_3d_Printer_BurgBot/blob/master/Media/All_plywood_3d_printer_4.jpg)
 
-![Image of BurgBot 6]
+![Image of BurgBot 6](https://github.com/utkuburgaz/All_Plywood_3d_Printer_BurgBot/blob/master/Media/All_plywood_3d_printer_5.jpg)
 
-![Image of BurgBot 7]
+![Image of BurgBot 7](https://github.com/utkuburgaz/All_Plywood_3d_Printer_BurgBot/blob/master/Media/All_plywood_3d_printer_6.jpg)
