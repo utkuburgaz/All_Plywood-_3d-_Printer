@@ -15,9 +15,9 @@ BurgBot features:
 * Robust body less vulnerable to vibrations and allows easy carrying
 * Spool holder mounted right at the top of the extruder
 
+**BOM**
 
-
-| First Header  | Second Header |
+| Description   | Quantity      |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| Lasercut Body Parts  | Content Cell  |
 | Content Cell  | Content Cell  |
