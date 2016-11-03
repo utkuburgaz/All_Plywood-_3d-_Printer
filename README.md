@@ -53,3 +53,19 @@ BurgBot features:
 | Butterfly Nut        | Metric 3mm |x 4 |
 | M3 Bolts, Nuts and Washers  | Stainless or Black | Many |
 | M4 Bolts, Nuts and Washers  | Stainless or Black | Many |
+
+##PICTURES##
+
+![Image of BurgBot 1](All_Plywood_3d_Printer_BurgBot/Media/All_plywood_3d_printer_0.jpg)
+
+![Image of BurgBot 2]
+
+![Image of BurgBot 3]
+
+![Image of BurgBot 4]
+
+![Image of BurgBot 5]
+
+![Image of BurgBot 6]
+
+![Image of BurgBot 7]
