@@ -14,3 +14,10 @@ BurgBot features:
 * Power socket and on/off button
 * Robust body less vulnerable to vibrations and allows easy carrying
 * Spool holder mounted right at the top of the extruder
+
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
