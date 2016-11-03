@@ -58,7 +58,7 @@ BurgBot features:
 
 ![Image of BurgBot 1](All_Plywood_3d_Printer_BurgBot/Media/All_plywood_3d_printer_0.jpg)
 
-![Image of BurgBot 2]
+![Image of BurgBot 2](https://github.com/utkuburgaz/All_Plywood_3d_Printer_BurgBot/blob/master/Media/All_plywood_3d_printer_0.jpg)
 
 ![Image of BurgBot 3]
 
