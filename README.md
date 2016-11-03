@@ -1,4 +1,4 @@
-# All_Plywood-_3d-_Printer
+# All_Plywood_3d_Printer
 
 In an effort to make a robust and easy to setup Prusa i3 version I designed this by using SolidWorks 3D design software. I called it **BurgBot Inventor** :)
 
